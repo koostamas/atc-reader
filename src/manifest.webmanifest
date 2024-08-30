@@ -1,0 +1,17 @@
+{
+  "name": "ATC Reader",
+  "short_name": "ATC Reader",
+  "theme_color": "#111827",
+  "background_color": "#111827",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+       "src": "assets/icon.png",
+       "sizes": "512x512",
+       "type": "image/png",
+       "purpose": "maskable any"
+    }
+  ]
+}
